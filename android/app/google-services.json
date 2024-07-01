@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "542447751897",
+    "project_id": "dars66-5367a",
+    "storage_bucket": "dars66-5367a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542447751897:android:f7bd546e03edbf5f1e24c8",
+        "android_client_info": {
+          "package_name": "com.example.dars66"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfEh1lRUWLRSozZzCZ7TaGPQTYi_0hHgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542447751897:android:a0df10bb8ec358c11e24c8",
+        "android_client_info": {
+          "package_name": "com.example.dars_66"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfEh1lRUWLRSozZzCZ7TaGPQTYi_0hHgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542447751897:android:14d8146f50b82b671e24c8",
+        "android_client_info": {
+          "package_name": "com.example.dars_67"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfEh1lRUWLRSozZzCZ7TaGPQTYi_0hHgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
